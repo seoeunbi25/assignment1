@@ -310,7 +310,6 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,django,visualstudiocode
 
-venv/
 
 # Django stuff:
 db.sqlite3
